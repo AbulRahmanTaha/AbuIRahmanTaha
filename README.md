@@ -1,7 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm AbdulRahman Taha
+
+
+# 👋 Hi, I'm AbdulRahman Taha
 
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">
@@ -9,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);React+Developer;Next.js+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN);React+Developer;Next.js+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -20,7 +22,7 @@
 const AbdulRahman = {
   role: "Full-Stack Developer (MERN)",
   education: "Faculty of Engineering - Systems & Computers",
-  year: "Final Year",
+  status: "Final Year Student",
   internship: "DEPI Trainee",
 
   currentlyLearning: [
@@ -31,12 +33,35 @@ const AbdulRahman = {
     "Problem Solving"
   ],
 
-  interests: [
-    "Web Development",
-    "Software Engineering",
-    "Open Source",
-    "Embedded Systems"
-  ]
+  technologies: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
+
+    databases: [
+      "MongoDB",
+      "MySQL"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Firebase",
+      "Figma"
+    ]
+  }
 };
 ```
 
@@ -45,13 +70,13 @@ const AbdulRahman = {
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulrahmantaha39">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/abdulrahmantaha39">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://abulrahmantaha.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" />
-</a>
+  <a href="https://abulrahmantaha.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -118,15 +143,11 @@ Building a scalable MERN marketplace platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbuIRahmanTaha&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbuIRahmanTaha&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuIRahmanTaha&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuIRahmanTaha&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuIRahmanTaha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -134,7 +155,7 @@ Building a scalable MERN marketplace platform.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbuIRahmanTaha&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbuIRahmanTaha&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
